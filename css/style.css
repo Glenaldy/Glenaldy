@@ -6,7 +6,9 @@ body{
 	line-height: 1.6em;
 	margin:0;
 }
-
+.main{
+	margin: 0 auto;
+}
 .container{
 	width:80%;
 	margin:auto;
